@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  line-height: 1.8;
+}
+
+header, footer {
+  text-align: center;
+  margin: 40px 0;
+}
+
+a {
+  color: #3366cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
